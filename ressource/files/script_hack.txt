@@ -1,0 +1,18 @@
+init connection @server 23.86.111.0^
+access folder [root]^
+launch auth_crack.exe^
+list admin users >>^
+override security settings^
+active crack mode^
+access user [admin] [Tkv2X#m4§!] at [23.86.111.0]^
+run forcelaunch.exe^
+[Qick]^
+server ip adress : - 23.86.111.0^
+Server root principal. WARNING : access refused.^
+Connected to main server @23.86.1110^
+Authorization required !^
+Unable to access security settings. Login required !^
+Response : [admin], [Tkv2X#m4§!]^
+Server busy -please wait... #openPasswdCrack^
+Successfully !^
+ERROR : open --Guard_mod.exe%
