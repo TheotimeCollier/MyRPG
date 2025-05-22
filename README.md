@@ -32,7 +32,7 @@ make
 
 - `src/` : Fichiers sources du jeu
 - `include/` : Fichiers headers (.h)
-- `assets/` : Ressources (images, sons, musiques...)
+- `ressource/` : Ressources (images, sons, musiques...)
 - `Makefile` : Script de compilation
 
 ## Auteurs
